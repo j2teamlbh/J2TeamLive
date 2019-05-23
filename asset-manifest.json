@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/J2TeamLive/static/css/main.5798f1f4.chunk.css",
+    "main.js": "/J2TeamLive/static/js/main.d26d44c8.chunk.js",
+    "main.js.map": "/J2TeamLive/static/js/main.d26d44c8.chunk.js.map",
+    "runtime~main.js": "/J2TeamLive/static/js/runtime~main.010ebe5b.js",
+    "runtime~main.js.map": "/J2TeamLive/static/js/runtime~main.010ebe5b.js.map",
+    "static/js/2.df406e02.chunk.js": "/J2TeamLive/static/js/2.df406e02.chunk.js",
+    "static/js/2.df406e02.chunk.js.map": "/J2TeamLive/static/js/2.df406e02.chunk.js.map",
+    "index.html": "/J2TeamLive/index.html",
+    "precache-manifest.8ebac97fd22c5af554659dc77067fff9.js": "/J2TeamLive/precache-manifest.8ebac97fd22c5af554659dc77067fff9.js",
+    "service-worker.js": "/J2TeamLive/service-worker.js",
+    "static/css/main.5798f1f4.chunk.css.map": "/J2TeamLive/static/css/main.5798f1f4.chunk.css.map",
+    "static/media/ANGRY.gif": "/J2TeamLive/static/media/ANGRY.16f6c102.gif",
+    "static/media/HAHA.gif": "/J2TeamLive/static/media/HAHA.7c8dac3b.gif",
+    "static/media/LIKE.gif": "/J2TeamLive/static/media/LIKE.7b593078.gif",
+    "static/media/LOVE.gif": "/J2TeamLive/static/media/LOVE.801526e1.gif",
+    "static/media/SAD.gif": "/J2TeamLive/static/media/SAD.447909ad.gif",
+    "static/media/WOW.gif": "/J2TeamLive/static/media/WOW.9baf7e7f.gif",
+    "static/media/Main.css": "/J2TeamLive/static/media/logo.90474807.png"
+  }
+}
