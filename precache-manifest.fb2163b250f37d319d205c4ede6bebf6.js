@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30e6c2de5e9352894375baf417b312f1",
+    "revision": "b83b1c833e39adbb3d6973bcd94f36d5",
     "url": "/J2TeamLive/index.html"
   },
   {
-    "revision": "bcdb829f4baa15944793",
-    "url": "/J2TeamLive/static/css/main.5905dec1.chunk.css"
+    "revision": "31000384c3c2eef1086b",
+    "url": "/J2TeamLive/static/css/main.05031a5d.chunk.css"
   },
   {
-    "revision": "67d4f796184a66671b03",
-    "url": "/J2TeamLive/static/js/2.13940ffe.chunk.js"
+    "revision": "35c6c344eb5abff7b496",
+    "url": "/J2TeamLive/static/js/2.ce91134b.chunk.js"
   },
   {
-    "revision": "bcdb829f4baa15944793",
-    "url": "/J2TeamLive/static/js/main.8aec61d1.chunk.js"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/J2TeamLive/static/js/2.ce91134b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b26e50b35e21402f88c8",
-    "url": "/J2TeamLive/static/js/runtime~main.010ebe5b.js"
+    "revision": "31000384c3c2eef1086b",
+    "url": "/J2TeamLive/static/js/main.bb7e2618.chunk.js"
+  },
+  {
+    "revision": "0ed0c2671a2d5ab6bb08",
+    "url": "/J2TeamLive/static/js/runtime-main.5d4199ee.js"
   },
   {
     "revision": "16f6c1029632626f154cd976954f7e70",
